@@ -13,7 +13,7 @@ export default function Navbar() {
                     <li><a className="text-white hover:text-pink-400 duration-[0.5s]" href="/product">Our products</a></li>
                     <li><a className="text-white hover:text-pink-400 duration-[0.5s]" href="/categ">Catygories</a></li>
                     <li><a className="text-white hover:text-pink-400 duration-[0.5s]" href="/test">Testiomonals</a></li>
-                    <li><a className="text-white hover:text-pink-400 duration-[0.5s]" href="/contact">Contuct us</a></li>
+                    <li><a className="text-white hover:text-pink-400 duration-[0.5s]" href="/login">Join us</a></li>
                 </ul>
             </nav>
       </>

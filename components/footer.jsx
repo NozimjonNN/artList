@@ -9,7 +9,7 @@ export default function Footer() {
             <ul>
                 <li><a href="/" className="text-white hover:text-pink-400 duration-[0.5s]">Home</a></li>
                 <li><a href="/about" className="text-white hover:text-pink-400 duration-[0.5s]">About us</a></li>
-                <li><a href="/contact" className="text-white hover:text-pink-400 duration-[0.5s]">Join us</a></li>
+                <li><a href="/login" className="text-white hover:text-pink-400 duration-[0.5s]">Join us</a></li>
                 <li><a href="/product" className="text-white hover:text-pink-400 duration-[0.5s]">Our products</a></li>
             </ul>
             <ul>
