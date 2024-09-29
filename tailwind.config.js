@@ -6,6 +6,10 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    fontFamily: {
+      'customMono': ['"Ubuntu Mono", monospace'],
+      'roboto': ['Roboto, sans-serif']
+    },
     extend: {
       colors: {
         background: "var(--background)",
